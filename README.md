@@ -5,9 +5,11 @@ sourcetree 测试练习
 
 ## hello world
 ```js
-let a = 3;
+let a = 3;b=4;
 a++;
 
 ```
 
 ### 你还记得吗
+
+### 有信心吧
