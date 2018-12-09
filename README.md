@@ -6,4 +6,9 @@ sourcetree 测试练习
 > 或许有些事情永远不会明白
 
 ## hello world
+```js
+let a = 3;
+a++;
+
+```
 
